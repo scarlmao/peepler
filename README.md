@@ -1,4 +1,3 @@
-```markdown
 # peepler 🕵️‍♀️
 
 An osint tool for people searches in over 9+ countries including Canada, USA, and India.
@@ -8,9 +7,6 @@ An osint tool for people searches in over 9+ countries including Canada, USA, an
 *   **Multi-Country Support:** Search for individuals across 9+ countries.
 *   **OSINT Focus:** Designed for open-source intelligence gathering.
 *   **Easy to Use:** Simple installation and configuration.
-
-## 🎥Preview
-![preview](https://github.com/scarlmao/peepler/blob/main/image.png)
 
 ## 🛠️ Installation
 
@@ -54,14 +50,3 @@ Contributions are welcome! Please follow these steps:
 ## 📜 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=scarlmao/peepler&type=Date)](https://star-history.com/#scarlmao/peepler&Date)
-```
-
-
-
-
-
-
