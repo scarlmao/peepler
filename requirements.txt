@@ -1,4 +1,4 @@
 requests
-BeautifulSoup
+BeautifulSoup4
 urllib
 pystyle
