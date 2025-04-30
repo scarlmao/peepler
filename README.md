@@ -1,6 +1,6 @@
 # peepler 🕵️‍♀️
 
-An osint tool for people searches in over 9+ countries including Canada, USA, and India.
+An osint tool for people searches in over 9+ countries including Canada, USA, and India. (NO LONGER MAINTAINED)
 
 ## ✨ Features
 
